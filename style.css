@@ -1,11 +1,9 @@
 body{
-    background-color: white;
+    background-color: grey;
 }
-/*borda arredondada em pixels*/
-.img1{
-    border-radius: 8px;
-}
-/*borda em porcentagem*/
-.img2{
-    border-radius: 50%;
+.img{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
 }
